@@ -1,0 +1,110 @@
+{
+  "num_layouts": 8,
+  "num_ok": 0,
+  "rows": [
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_00",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 0.01990804419586481,
+      "max_z_drift_after_50_steps": 0.036955589730684135,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_00_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_00_physics_report.json",
+      "errors": []
+    },
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_01",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 0.018172668522540774,
+      "max_z_drift_after_50_steps": 0.04749738036765416,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_01_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_01_physics_report.json",
+      "errors": []
+    },
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_02",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 0.07485215183816289,
+      "max_z_drift_after_50_steps": 0.04749738036765416,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_02_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_02_physics_report.json",
+      "errors": []
+    },
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_03",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 4.296448252037754e-06,
+      "max_z_drift_after_50_steps": 0.04749738036765416,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_03_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_03_physics_report.json",
+      "errors": []
+    },
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_04",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 4.296448252060324e-06,
+      "max_z_drift_after_50_steps": 0.04749738036765416,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_04_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_04_physics_report.json",
+      "errors": []
+    },
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_05",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 0.013196375289865055,
+      "max_z_drift_after_50_steps": 0.04749738036765416,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_05_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_05_physics_report.json",
+      "errors": []
+    },
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_06",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 0.00010065639373266975,
+      "max_z_drift_after_50_steps": 0.04284500763014343,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_06_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_06_physics_report.json",
+      "errors": []
+    },
+    {
+      "layout_id": "a1_hot_surface_base_v1_layout_07",
+      "ok": false,
+      "reset_core_core_contacts": 0,
+      "reset_penetrations": 0,
+      "settle_core_core_contacts": 0,
+      "settle_penetrations": 0,
+      "max_xy_drift_after_50_steps": 4.296448252146457e-06,
+      "max_z_drift_after_50_steps": 0.04749738036765416,
+      "settle_frame": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_07_settle50_model_frame.png",
+      "report": "/storage/v-xiangxizheng/zy_workspace/LIBERO_clean/visa_native_attack_bench/reports/a1_hot_surface_bench_base_v1_physics_audit/a1_hot_surface_base_v1_layout_07_physics_report.json",
+      "errors": []
+    }
+  ]
+}
